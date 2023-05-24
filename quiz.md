@@ -4,7 +4,7 @@
 
 ### Q1: Which of the following is a valid bash command?
 - A: cd new folder
-X- B: cd new_folder
+- (B: cd new_folder)
 - C: goto new_folder
 - D: cdir new_folder
 
