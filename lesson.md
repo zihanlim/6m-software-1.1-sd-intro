@@ -21,8 +21,9 @@ mkdir test-folder # create new folder
 pwd # print working directory (current directory)
 cd test-folder # change directory to 'test-folder'
 pwd # print current directory and observe the difference
-touch a.txt # create a new file
-touch b.txt # create a new file
+touch a.txt # create a new file in mac
+touch b.txt # create a new file in mac
+ni asd.txt # create a new file in windows
 ls # list all files in current directory
 ```
 
