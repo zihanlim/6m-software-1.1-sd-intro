@@ -13,7 +13,7 @@ cd=change directory
 
 ### Q2: Which of the following bash commands is used to check the current directory?
 - A: currdir
-- (B: pwd)
+- **(B: pwd)**
 - C: rmdir
 - D: whereis
 
@@ -21,7 +21,7 @@ pwd=print working directory
 ---
 
 ### Q3: The touch command allows the user to create files
-- (A: True)
+- **(A: True)**
 - B: False
 
 touch asd.txt #creates file in current directory for mac
@@ -32,7 +32,7 @@ ni asd.txt #creates files in current directory for windows
 - A: Notepad
 - B: Wordpad
 - C: Vim
-- (D: VSCode)
+- **(D: VSCode)**
 
 A/B - text editor
 C - powerful text editor not full-fledged IDE.
@@ -40,13 +40,13 @@ IDE has built-in debugging tools or visual user interface etc...
 ---
 
 ### Q5: Extensions can be installed in the IDEs to be able to use other functionalities?
-- (A: True)
+- **(A: True)**
 - B: False
 ---
 
 ### Q6: Only the Chrome browser has a developer tool?
 - A: True
-- (B: False)
+- **(B: False)**
 
 All browsers should have a developer tool
 -F12/Ctrl+Shift+I
@@ -56,16 +56,16 @@ All browsers should have a developer tool
 - A: Press F12 on the keyboard
 - B: Right-click on the browser and select “Inspect”
 - C: Press Ctrl+Shift+I on the keyboard
-- (D: All of the above)
+- **(D: All of the above)**
 ---
 
 ### Q8: Each programming language has a unique set of keywords and a special syntax for instructions
-- (A: True)
+- **(A: True)**
 - B: False
 ---
 
 ### Q9: A ___ is used to change source code to object code?
-- (A: Compiler)
+- **(A: Compiler)**
 - B: Interpreter
 - C: Reader
 - D: None of the above
@@ -79,7 +79,7 @@ JIT complier = Complier + Interpreter (Java (with the HotSpot JVM) and JavaScrip
 ---
 
 ### Q10: Each programming language has some features that are common to each other
-- (A: True)
+- **(A: True)**
 - B: False
 
 Here are a few fundamental features that are often found in programming languages:
